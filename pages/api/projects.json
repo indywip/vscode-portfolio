@@ -28,7 +28,7 @@
     "id": 4,
     "name": "VSCode Portfolio (Source Code)",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A developer portfolio theme based on the VSCode's interface",
+    "description": "A developer portfolio theme based on VSCode's interface",
     "tags": ["javascript","next", "css","json"],
     "source_code": "https://github.com/indywip/vscode-portfolio"
   }
