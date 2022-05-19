@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "onlyProfs",
-    "image": "https://i.imgur.com/JZlnzOa.png",
+    "image": "https://imgur.com/JZlnzOa.png",
     "description": "A platform for professors to earn by uploading lecture materials",
     "tags": ["html", "css", "javascript", "react", "firebase"],
     "source_code": "https://github.com/indywip/OnlyProfs",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "entreprenHER",
-    "image": "https://i.imgur.com/2fiQkZF.png",
+    "image": "https://imgur.com/2fiQkZF.png",
     "description": "E-commerce website for local female-owned businesses",
     "tags": ["html", "css", "python", "flask"],
     "source_code": "https://github.com/indywip/EntreprenHER"
@@ -19,7 +19,7 @@
   {
     "id": 3,
     "name": "Scheduling",
-    "image": "https://i.imgur.com/zKkE8uF.png",
+    "image": "https://imgur.com/zKkE8uF.png",
     "description": "A weekly class scheduling application",
     "tags": ["java", "junit", "swing", "json"],
     "source_code": "https://github.com/indywip/Weekly-Schedule-App"
