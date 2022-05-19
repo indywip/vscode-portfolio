@@ -23,7 +23,7 @@ const contactItems = [
   },
 
   {
-    social: 'design portfolio',
+    social: 'design',
     link: 'indirasowy.editorx.io',
     href: 'https://indirasowy.editorx.io/indysowy',
   },
