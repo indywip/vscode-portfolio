@@ -85,3 +85,10 @@
 .firebase:hover {
   background: rgba(21, 114, 182, 0.25);
 }
+
+.next {
+  border: 2px solid rgb(233, 76, 135);
+}
+.next:hover {
+  background: rgba(176, 78, 116, 0.25);
+}
