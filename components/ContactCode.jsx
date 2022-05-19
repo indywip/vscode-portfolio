@@ -21,6 +21,12 @@ const contactItems = [
     link: 'indirasowy',
     href: 'https://www.linkedin.com/in/indirasowy/',
   },
+
+  {
+    social: 'design portfolio',
+    link: 'indirasowy.editorx.io',
+    href: 'https://indirasowy.editorx.io/indysowy',
+  },
 ];
 
 const ContactCode = () => {
