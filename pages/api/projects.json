@@ -26,11 +26,10 @@
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio (Source Code)",
+    "name": "VSCode Portfolio (Source Credits)",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio"
   }
 ]
