@@ -1,33 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
+    "name": "onlyProfs",
     "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "description": "A platform for professors to earn by uploading lecture materials",
+    "tags": ["html", "css", "javascript", "react", "firebase"],
+    "source_code": "https://github.com/indywip/OnlyProfs",
+    "demo": "https://only-profs.web.app/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
+    "name": "entreprenHER",
     "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "description": "E-commerce website for local female-owned businesses",
+    "tags": ["html", "css", "python", "flask"],
+    "source_code": "https://github.com/indywip/EntreprenHER"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
+    "name": "Scheduling",
     "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "description": "A weekly class scheduling application",
+    "tags": ["java", "junit", "swing", "json"],
+    "source_code": "https://github.com/indywip/Weekly-Schedule-App"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
+    "name": "VSCode Portfolio (Source Code)",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css-modules"],
