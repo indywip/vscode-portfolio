@@ -13,7 +13,7 @@ const contactItems = [
   },
   {
     social: 'github',
-    link: 'indyswip',
+    link: 'indywip',
     href: 'https://github.com/indywip',
   },
   {
