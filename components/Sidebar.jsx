@@ -16,15 +16,11 @@ const sidebarTopItems = [
   },
   {
     Icon: GithubIcon,
-    path: '/github',
+    path: 'https://github.com/indywip',
   },
   {
     Icon: CodeIcon,
     path: '/projects',
-  },
-  {
-    Icon: PencilIcon,
-    path: '/articles',
   },
   {
     Icon: MailIcon,
