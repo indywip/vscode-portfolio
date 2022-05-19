@@ -15,10 +15,10 @@ const CustomHead = ({ title }) => {
       <meta property="og:title" content="Indy Sowy's Portfolio" />
       <meta
         property="og:description"
-        content="A web developer building websites that you'd like to use."
+        content="A web developer designing and building websites that solve problems."
       />
-      <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
-      <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
+      <meta property="og:image" content="https://imgur.com/YXpApwy.png" />
+      <meta property="og:url" content="https://indysowy.vercel.app" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );
