@@ -27,7 +27,7 @@
   {
     "id": 4,
     "name": "eProjects",
-    "image": "https://imgur.com/mKkz0iz.png",
+    "image": "https://imgur.com/AFJqUGK.png",
     "description": "Organizaion website for UBC eProjects",
     "tags": ["html","css", "javascript","react","bootstrap"],
     "source_code": "https://github.com/indywip/eprojects-sanity",
