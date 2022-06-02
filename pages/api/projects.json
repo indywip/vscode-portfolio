@@ -21,15 +21,25 @@
     "name": "Scheduling",
     "image": "https://imgur.com/zKkE8uF.png",
     "description": "A weekly class scheduling application",
-    "tags": ["java", "junit", "swing", "json"],
+    "tags": ["java", "junit", "swing"],
     "source_code": "https://github.com/indywip/Weekly-Schedule-App"
   },
   {
     "id": 4,
+    "name": "eProjects",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Organizaion website for UBC eProjects",
+    "tags": ["html","css", "javascript","react","bootstrap"],
+    "source_code": "https://github.com/indywip/eprojects-sanity",
+    "demo": "https://www.ubceprojects.com/"
+  }
+
+  {
+    "id": 5,
     "name": "VSCode Portfolio (Source Code)",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A developer portfolio theme based on VSCode's interface",
-    "tags": ["javascript","next", "css","json"],
+    "tags": ["javascript","next", "css"],
     "source_code": "https://github.com/indywip/vscode-portfolio"
   }
 ]
