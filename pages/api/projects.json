@@ -27,7 +27,7 @@
   {
     "id": 4,
     "name": "Team Management",
-    "image": "https://i.imgur.com/Zm9fm09.png",
+    "image": "https://imgur.com/Zm9fm09.png",
     "description": "An application to manage team members",
     "tags": ["python", "django", "sql","postgres"]
   },
@@ -43,7 +43,7 @@
   {
     "id": 6,
     "name": "Major League Hacking Portfolio",
-    "image": "https://i.imgur.com/wXzAne0.png",
+    "image": "https://imgur.com/wXzAne0.png",
     "description": "A Jekyll portfolio done under the Major League Hacking Prep Fellowship program",
     "tags": ["ruby","html", "css"],
     "source_code": "https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.3",

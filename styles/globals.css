@@ -83,7 +83,7 @@
   border: 2px solid rgb(237, 74, 144);
 }
 .ruby:hover {
-  background: rgba(230, 46, 125);
+  background: rgba(230, 46, 0.25);
 }
 
 .firebase {
@@ -97,21 +97,21 @@
   border: 2px solid rgb(50, 168, 82);
 }
 .django:hover {
-  background: rgba(17, 140, 50);
+  background: rgba(17, 140, 0.25);
 }
 
 .sql {
   border: 2px solid rgb(143, 96, 54);
 }
 .sql:hover {
-  background: rgba(122, 71, 24);
+  background: rgba(122, 71, 0.25);
 }
 
 .postgres {
   border: 2px solid rgb(250, 142, 75);
 }
 .postgres:hover {
-  background: rgba(237, 120, 12);
+  background: rgba(237, 120, 0.25);
 }
 
 .next {
