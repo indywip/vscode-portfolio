@@ -44,8 +44,8 @@
     "id": 6,
     "name": "Major League Hacking Portfolio",
     "image": "https://imgur.com/wXzAne0.png",
-    "description": "A Jekyll portfolio done under the Major League Hacking Prep Fellowship program",
-    "tags": ["ruby","html", "css"],
+    "description": "A Jekyll portfolio done under the MLH Prep Fellowship program",
+    "tags": ["ruby","html", "css","bootstrap"],
     "source_code": "https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.3",
     "demo": "https://prep-22-jul-prep-3-portfolio.netlify.app/"
   },
