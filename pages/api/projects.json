@@ -26,6 +26,13 @@
   },
   {
     "id": 4,
+    "name": "Team Management",
+    "image": "https://i.imgur.com/Zm9fm09.png",
+    "description": "An application to manage team members",
+    "tags": ["python", "django", "sql","postgres"]
+  },
+  {
+    "id": 5,
     "name": "eProjects",
     "image": "https://imgur.com/AFJqUGK.png",
     "description": "Organizaion website for UBC eProjects",
@@ -34,7 +41,16 @@
     "demo": "https://www.ubceprojects.com/"
   },
   {
-    "id": 5,
+    "id": 6,
+    "name": "Major League Hacking Portfolio",
+    "image": "https://i.imgur.com/wXzAne0.png",
+    "description": "A Jekyll portfolio done under the Major League Hacking Prep Fellowship program",
+    "tags": ["ruby","html", "css"],
+    "source_code": "https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.3",
+    "demo": "https://prep-22-jul-prep-3-portfolio.netlify.app/"
+  },
+  {
+    "id": 7,
     "name": "VSCode Portfolio (Source Code)",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A developer portfolio theme based on VSCode's interface",
