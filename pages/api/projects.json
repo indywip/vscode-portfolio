@@ -29,7 +29,8 @@
     "name": "Team Management",
     "image": "https://imgur.com/Zm9fm09.png",
     "description": "An application to manage team members",
-    "tags": ["python", "django", "sql","postgres"]
+    "tags": ["python", "django", "sql","postgres"],
+    "source_code": "https://github.com/indywip/team_management"
   },
   {
     "id": 5,
