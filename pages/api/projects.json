@@ -34,6 +34,15 @@
   },
   {
     "id": 5,
+    "name": "Weather App",
+    "image": "https://imgur.com/DC0I0pb.png",
+    "description": "An app to get the weather forecast by utilizing several APIs",
+    "tags": ["html","css", "javascript","react","bootstrap"],
+    "source_code": "https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.3",
+    "demo": "prep-22-jul-prep-3-project.netlify.app/"
+  },
+  {
+    "id": 6,
     "name": "eProjects",
     "image": "https://imgur.com/AFJqUGK.png",
     "description": "Organizaion website for UBC eProjects",
@@ -42,7 +51,7 @@
     "demo": "https://www.ubceprojects.com/"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Major League Hacking Portfolio",
     "image": "https://imgur.com/wXzAne0.png",
     "description": "A Jekyll portfolio done under the MLH Prep Fellowship program",
@@ -51,7 +60,7 @@
     "demo": "https://prep-22-jul-prep-3-portfolio.netlify.app/"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "VSCode Portfolio (Source Code)",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A developer portfolio theme based on VSCode's interface",
