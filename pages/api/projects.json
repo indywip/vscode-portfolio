@@ -18,7 +18,7 @@
   },
   {
     "id": 3,
-    "name": "Scheduling",
+    "name": "Weekly Scheduler",
     "image": "https://imgur.com/zKkE8uF.png",
     "description": "A weekly class scheduling application",
     "tags": ["java", "junit", "swing"],
@@ -34,7 +34,7 @@
   },
   {
     "id": 5,
-    "name": "Weather App",
+    "name": "Weather Forecast",
     "image": "https://imgur.com/DC0I0pb.png",
     "description": "An app to get the weather forecast by utilizing several APIs",
     "tags": ["html","css","javascript","react"],
@@ -65,6 +65,7 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A developer portfolio theme based on VSCode's interface",
     "tags": ["javascript","next", "css"],
-    "source_code": "https://github.com/indywip/vscode-portfolio"
+    "source_code": "https://github.com/indywip/vscode-portfolio",
+    "demo": "https://indywip.vercel.app/"
   }
 ]
