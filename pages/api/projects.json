@@ -4,7 +4,7 @@
     "name": "IndyTube",
     "image": "https://imgur.com/cgCkxZc.png",
     "description": "A youtube clone for uploading videos and posting comments",
-    "tags": ["react", "node", "express", "mongodb","firebase"]
+    "tags": ["javascript","react", "node", "express", "mongodb","firebase"]
   },
   {
     "id": 2,
