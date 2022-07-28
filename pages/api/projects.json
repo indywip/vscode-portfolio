@@ -1,20 +1,18 @@
 [
   {
     "id": 1,
-    "name": "onlyProfs",
-    "image": "https://imgur.com/JZlnzOa.png",
-    "description": "A platform for professors to earn by uploading lecture materials",
-    "tags": ["html", "css", "javascript", "react", "firebase"],
-    "source_code": "https://github.com/indywip/OnlyProfs",
-    "demo": "https://only-profs.web.app/"
+    "name": "IndyTube",
+    "image": "https://imgur.com/cgCkxZc.png",
+    "description": "A youtube clone for uploading videos and posting comments",
+    "tags": ["react", "node", "express", "mongodb","firebase"]
   },
   {
     "id": 2,
-    "name": "entreprenHER",
-    "image": "https://imgur.com/2fiQkZF.png",
-    "description": "E-commerce website for local female-owned businesses",
-    "tags": ["html", "css", "python", "flask"],
-    "source_code": "https://github.com/indywip/EntreprenHER"
+    "name": "Team Management",
+    "image": "https://imgur.com/Zm9fm09.png",
+    "description": "An application to manage team members",
+    "tags": ["python", "django", "sql","postgres"],
+    "source_code": "https://github.com/indywip/team_management"
   },
   {
     "id": 3,
@@ -26,23 +24,32 @@
   },
   {
     "id": 4,
-    "name": "Team Management",
-    "image": "https://imgur.com/Zm9fm09.png",
-    "description": "An application to manage team members",
-    "tags": ["python", "django", "sql","postgres"],
-    "source_code": "https://github.com/indywip/team_management"
-  },
-  {
-    "id": 5,
     "name": "Weather Forecast",
-    "image": "https://imgur.com/DC0I0pb.png",
+    "image": "https://imgur.com/rD0AdLA.png",
     "description": "An app to get the weather forecast by utilizing several APIs",
     "tags": ["html","css","javascript","react"],
     "source_code": "https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.3",
     "demo": "https://prep-22-jul-prep-3-project.netlify.app/"
   },
   {
+    "id": 5,
+    "name": "onlyProfs",
+    "image": "https://imgur.com/JZlnzOa.png",
+    "description": "A platform for professors to earn by uploading lecture materials",
+    "tags": ["html", "css", "javascript", "react", "firebase"],
+    "source_code": "https://github.com/indywip/OnlyProfs",
+    "demo": "https://only-profs.web.app/"
+  },
+  {
     "id": 6,
+    "name": "entreprenHER",
+    "image": "https://imgur.com/2fiQkZF.png",
+    "description": "E-commerce website for local female-owned businesses",
+    "tags": ["html", "css", "python", "flask"],
+    "source_code": "https://github.com/indywip/EntreprenHER"
+  },
+  {
+    "id": 7,
     "name": "eProjects",
     "image": "https://imgur.com/AFJqUGK.png",
     "description": "Organizaion website for UBC eProjects",
@@ -51,7 +58,7 @@
     "demo": "https://www.ubceprojects.com/"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Major League Hacking Portfolio",
     "image": "https://imgur.com/wXzAne0.png",
     "description": "A Jekyll portfolio done under the MLH Prep Fellowship program",
@@ -60,7 +67,7 @@
     "demo": "https://prep-22-jul-prep-3-portfolio.netlify.app/"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "VSCode Portfolio (Source Code)",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A developer portfolio theme based on VSCode's interface",

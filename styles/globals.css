@@ -23,10 +23,10 @@
   background: rgba(131, 205, 41, 0.25);
 }
 
-.css {
+.mongodb {
   border: 0.1rem solid rgb(67, 153, 52);
 }
-.css:hover {
+.mongodb:hover {
   background: rgba(67, 153, 52, 0.25);
 }
 
@@ -119,4 +119,25 @@
 }
 .next:hover {
   background: rgba(176, 78, 116, 0.25);
+}
+
+.express {
+  border: 2px solid rgb(222, 119, 82);
+}
+.express:hover {
+  background: rgba(204, 102, 65, 0.25);
+}
+
+.node {
+  border: 2px solid rgb(172, 111, 217);
+}
+.node:hover {
+  background: rgba(133, 86, 168, 0.25);
+}
+
+.css {
+  border: 2px solid rgb(230, 69, 79);
+}
+.css:hover {
+  background: rgba(176, 58, 65, 0.25);
 }
