@@ -141,3 +141,17 @@
 .css:hover {
   background: rgba(176, 58, 65, 0.25);
 }
+
+.jupyter {
+  border: 2px solid rgb(107, 105, 105);
+}
+.jupyter:hover {
+  background: rgba(66, 66, 66, 0.25);
+}
+
+.pandas {
+  border: 2px solid rgb(235, 235, 235);
+}
+.pandas:hover {
+  background: rgba(189, 189, 189, 0.25);
+}
