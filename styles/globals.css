@@ -155,3 +155,19 @@
 .pandas:hover {
   background: rgba(189, 189, 189, 0.25);
 }
+
+.react-native {
+  border: 2px solid rgb(163, 207, 175);
+}
+.react-native:hover {
+  background: rgba(103, 130, 110, 0.25);
+}
+
+.axios {
+  border: 2px solid rgb(211, 173, 224);
+}
+.axios:hover {
+  background: rgba(161, 123, 173, 0.25);
+}
+
+
