@@ -24,8 +24,8 @@ const contactItems = [
 
   {
     social: 'design',
-    link: 'indysowy.herokuapp.com',
-    href: 'https://indysowy.herokuapp.com/',
+    link: 'dribbble.com/indysowy',
+    href: 'https://dribbble.com/indysowy',
   },
 ];
 
