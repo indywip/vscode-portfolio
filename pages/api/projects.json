@@ -11,7 +11,7 @@
     "id": 2,
     "name": "IndyTube",
     "image": "https://imgur.com/cgCkxZc.png",
-    "description": "A youtube clone for uploading videos and posting comments (in progress)",
+    "description": "A youtube clone for uploading videos and posting comments",
     "tags": ["javascript","react", "node", "express", "mongodb","firebase"],
     "source_code": "https://github.com/indywip/indytube"
   },
