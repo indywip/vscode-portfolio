@@ -81,7 +81,7 @@
     "description": "Organizaion website for UBC eProjects",
     "tags": ["html","css", "javascript","react","bootstrap"],
     "source_code": "https://github.com/indywip/eprojects-sanity",
-    "demo": "https://www.ubceprojects.com/"
+    "demo": "https://eprojects-sanity.vercel.app/"
   },
   {
     "id": 11,
