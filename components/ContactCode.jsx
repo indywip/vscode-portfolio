@@ -24,8 +24,8 @@ const contactItems = [
 
   {
     social: 'design',
-    link: 'dribbble.com/indysowy',
-    href: 'https://dribbble.com/indysowy',
+    link: 'indysowy.netlify.app',
+    href: 'https://indysowy.netlify.app/',
   },
 ];
 
