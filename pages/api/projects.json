@@ -3,8 +3,8 @@
     "id": 1,
     "name": "Inspiritzia",
     "image": "https://imgur.com/SATFv67.png",
-    "description": "A fashion-based community platform to share outfits, based on Aritzia",
-    "tags": ["javascript","react", "python", "flask", "sqlite","axios","pandas"],
+    "description": "A fashion-based community platform to share outfits, based on Aritzia's website",
+    "tags": ["javascript","react", "python", "flask", "sqlite","axios","pandas","sql"],
     "source_code": "https://github.com/shlrley/inspiritzia"
   },
   {
