@@ -107,6 +107,14 @@
   background: rgba(105, 62, 24, 0.25);
 }
 
+.sqlite {
+  border: 2px solid rgb(230, 226, 204);
+}
+
+.sqlite:hover {
+  background: rgba(176, 173, 158, 0.25);
+}
+
 .postgres {
   border: 2px solid rgb(250, 142, 75);
 }

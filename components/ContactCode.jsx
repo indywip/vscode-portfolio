@@ -2,11 +2,6 @@ import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'website',
-    link: 'indywip.vercel.app',
-    href: 'https://indywip.vercel.app/',
-  },
-  {
     social: 'email',
     link: 'indira.sowy@gmail.com',
     href: 'mailto:indira.sowy@gmail.com',
@@ -26,6 +21,11 @@ const contactItems = [
     social: 'design',
     link: 'indysowy.netlify.app',
     href: 'https://indysowy.netlify.app/',
+  },
+  {
+    social: 'website',
+    link: 'indywip.vercel.app',
+    href: 'https://indywip.vercel.app/',
   },
 ];
 
