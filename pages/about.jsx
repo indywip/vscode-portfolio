@@ -8,7 +8,7 @@ const AboutPage = () => {
       <h3>My Past Experiences</h3>
       <ul>
       <li><strong>Operations Engineer</strong> @ UBC CEDaR Space Lab / <i>Oct. 2022 - Present</i></li>
-        <li><strong>Software Developer</strong> @ The Creative Solution / <i>Aug. 2022 - Present</i></li>
+        <li><strong>Software Developer</strong> @ The Creative Solution / <i>Aug. 2022 - Dec. 2022</i></li>
         <li><strong>Developer</strong> @ Leftindust / <i>Sep. 2022 - Nov. 2022</i></li>
         <li><strong>Prep Fellow</strong> @ Major League Hacking / <i>Jul. 2022</i></li>
         <li><strong>Web Developer</strong> @ UBC eProjects / <i>May 2022 - Present</i></li>
