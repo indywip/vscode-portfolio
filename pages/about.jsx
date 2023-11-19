@@ -7,12 +7,11 @@ const AboutPage = () => {
       <br></br>
       <h3>My Past Experiences</h3>
       <ul>
-        <li><strong>Software Developer Intern</strong> @ Copperleaf Technologies / <i>May 2023</i></li>
-        <li><strong>Operations Engineer</strong> @ UBC CEDaR Space Lab / <i>Oct. 2022 - Apr. 2022</i></li>
-        <li><strong>Software Developer</strong> @ The Creative Solution / <i>Aug. 2022 - Dec. 2022</i></li>
+        <li><strong>Software Developer Intern</strong> @ Copperleaf Technologies / <i>May - Dec. 2023</i></li>
+        <li><strong>Operations Engineer</strong> @ UBC CEDaR Space Lab / <i>Oct. - Apr. 2022</i></li>
+        <li><strong>Software Developer</strong> @ The Creative Solution / <i>Aug. - Dec. 2022</i></li>
         <li><strong>Software Engineer Intern</strong> @ Dashlabs.ai (YC W21) / <i>Jun. - Aug. 2022</i></li>
         <li><strong>Prep Fellow</strong> @ Major League Hacking / <i>Jul. 2022</i></li>
-        <li><strong>Web Development Intern</strong> @ The Coding Foundation / <i>Feb. - May 2022</i></li>
       </ul>
     </>
   );
