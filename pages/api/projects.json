@@ -1,14 +1,6 @@
 [
   {
     "id": 1,
-    "name": "Inspiritzia",
-    "image": "https://imgur.com/SATFv67.png",
-    "description": "A fashion-based community platform to share outfits, based on Aritzia's website",
-    "tags": ["javascript","react", "python", "flask", "sqlite","axios","pandas","sql"],
-    "source_code": "https://github.com/shlrley/inspiritzia"
-  },
-  {
-    "id": 2,
     "name": "CommunalCars",
     "image": "https://imgur.com/tKzi6nU.png",
     "description": "A mobile application allowing users to rent out their cars",
@@ -16,7 +8,31 @@
     "source_code": "https://github.com/indywip/communal-cars"
   },
   {
+    "id": 2,
+    "name": "NNECT",
+    "image": "https://imgur.com/LxJBdBm.png",
+    "description": "An e-commerce website for a food delivery startup",
+    "tags": ["javascript","react", "node", "python","django"],
+    "demo": "https://www.nnect.ca/"
+  },
+  {
     "id": 3,
+    "name": "UBCMA Job Portal",
+    "image": "https://i.imgur.com/Icx8lWa.png",
+    "description": "A job portal focused on marketing internships, for a marketing club",
+    "tags": ["typescript", "react", "sql"],
+    "demo": "https://ubcma-job-board.vercel.app/"
+  },
+  {
+    "id": 4,
+    "name": "Inspiritzia",
+    "image": "https://imgur.com/SATFv67.png",
+    "description": "A fashion-based community platform to share outfits, based on Aritzia's website",
+    "tags": ["javascript","react", "python", "flask", "sqlite","axios","sql"],
+    "source_code": "https://github.com/shlrley/inspiritzia"
+  },
+  {
+    "id": 5,
     "name": "IndyTube",
     "image": "https://imgur.com/cgCkxZc.png",
     "description": "A youtube clone for uploading videos and posting comments",
@@ -24,37 +40,20 @@
     "source_code": "https://github.com/indywip/indytube"
   },
   {
-    "id": 4,
-    "name": "NNECT",
-    "image": "https://imgur.com/LxJBdBm.png",
-    "description": "An e-commerce website for a food delivery startup",
-    "tags": ["javascript","react", "node", "python","django"],
-    "source_code": "https://github.com/epheonix380/NNECTWebsite",
-    "demo": "https://nnect-demo.herokuapp.com/"
-  },
-  {
-    "id": 5,
-    "name": "Stock Market Predictor",
-    "image": "https://imgur.com/H0CqoKV.png",
-    "description": "A webapp utilizing NLP to predict stock prices",
-    "tags": ["python","pandas","jupyter"],
-    "source_code": "https://github.com/Linlin727/stock-trend-prediction"
-  },
-  {
     "id": 6,
-    "name": "Team Management",
-    "image": "https://imgur.com/Zm9fm09.png",
-    "description": "An application to manage team members",
-    "tags": ["python", "django", "sql","postgres"],
-    "source_code": "https://github.com/indywip/team_management"
-  },
-  {
-    "id": 7,
     "name": "Weekly Scheduler",
     "image": "https://imgur.com/zKkE8uF.png",
     "description": "A weekly class scheduling application",
     "tags": ["java", "junit", "swing"],
     "source_code": "https://github.com/indywip/Weekly-Schedule-App"
+  },
+  {
+    "id": 7,
+    "name": "Team Management",
+    "image": "https://imgur.com/Zm9fm09.png",
+    "description": "An application to manage team members",
+    "tags": ["python", "django", "sql","postgres"],
+    "source_code": "https://github.com/indywip/team_management"
   },
   {
     "id": 8,
@@ -67,46 +66,11 @@
   },
   {
     "id": 9,
-    "name": "onlyProfs",
-    "image": "https://imgur.com/JZlnzOa.png",
-    "description": "A platform for professors to earn by uploading lecture materials",
-    "tags": ["html", "css", "javascript", "react", "firebase"],
-    "source_code": "https://github.com/indywip/OnlyProfs",
-    "demo": "https://only-profs.web.app/"
-  },
-  {
-    "id": 10,
-    "name": "entreprenHER",
-    "image": "https://imgur.com/2fiQkZF.png",
-    "description": "E-commerce website for local female-owned businesses",
-    "tags": ["html", "css", "python", "flask"],
-    "source_code": "https://github.com/indywip/EntreprenHER"
-  },
-  {
-    "id": 11,
-    "name": "eProjects",
-    "image": "https://imgur.com/AFJqUGK.png",
-    "description": "Organizaion website for UBC eProjects",
-    "tags": ["html","css", "javascript","react","bootstrap"],
-    "source_code": "https://github.com/indywip/eprojects-sanity",
-    "demo": "https://eprojects-sanity.vercel.app/"
-  },
-  {
-    "id": 12,
-    "name": "Major League Hacking Portfolio",
-    "image": "https://imgur.com/wXzAne0.png",
-    "description": "A Jekyll portfolio done under the MLH Prep Fellowship program",
-    "tags": ["ruby","html", "css","bootstrap"],
-    "source_code": "https://github.com/MLH-Fellowship/prep-portfolio-22.JUL.PREP.3",
-    "demo": "https://prep-22-jul-prep-3-portfolio.netlify.app/"
-  },
-  {
-    "id": 13,
-    "name": "VSCode Portfolio (Source Code)",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A developer portfolio theme based on VSCode's interface",
-    "tags": ["javascript","next", "css"],
-    "source_code": "https://github.com/indywip/vscode-portfolio",
-    "demo": "https://indywip.vercel.app/"
+    "name": "Design Portfolio",
+    "image": "https://i.imgur.com/KcqJ50Y.png",
+    "description": "A portfolio showcasing my past design work",
+    "tags": ["javascript","react"],
+    "source_code": "https://github.com/indywip/design-portfolio",
+    "demo": "https://indysowy.netlify.app/"
   }
 ]

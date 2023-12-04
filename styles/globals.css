@@ -65,25 +65,18 @@
   background: rgba(0, 112, 243, 0.25);
 }
 
-.bootstrap {
-  border: 2px solid rgb(6, 182, 212);
-}
-.bootstrap:hover {
-  background: rgba(6, 182, 212, 0.25);
-}
-
 .javascript {
   border: 2px solid rgb(255, 65, 84);
 }
 .javascript:hover {
-  background: rgba(255, 65, 84, 0.25);
+  background: rgba(191, 69, 69, 0.25);
 }
 
-.ruby {
-  border: 2px solid rgb(250, 157, 197);
+.typescript {
+  border: 2px solid rgb(242, 102, 102);
 }
-.ruby:hover {
-  background: rgba(217, 113, 158, 0.25);
+.typescript:hover {
+  background: rgba(255, 65, 84, 0.25);
 }
 
 .firebase {
@@ -148,20 +141,6 @@
 }
 .css:hover {
   background: rgba(176, 58, 65, 0.25);
-}
-
-.jupyter {
-  border: 2px solid rgb(107, 105, 105);
-}
-.jupyter:hover {
-  background: rgba(66, 66, 66, 0.25);
-}
-
-.pandas {
-  border: 2px solid rgb(235, 235, 235);
-}
-.pandas:hover {
-  background: rgba(189, 189, 189, 0.25);
 }
 
 .react-native {
