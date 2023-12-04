@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "UBCMA Job Portal",
-    "image": "https://i.imgur.com/Icx8lWa.png",
+    "image": "https://imgur.com/Icx8lWa.png",
     "description": "A job portal focused on marketing internships, for a marketing club",
     "tags": ["typescript", "react", "sql"],
     "demo": "https://ubcma-job-board.vercel.app/"
@@ -67,7 +67,7 @@
   {
     "id": 9,
     "name": "Design Portfolio",
-    "image": "https://i.imgur.com/KcqJ50Y.png",
+    "image": "https://imgur.com/KcqJ50Y.png",
     "description": "A portfolio showcasing my past design work",
     "tags": ["javascript","react"],
     "source_code": "https://github.com/indywip/design-portfolio",
