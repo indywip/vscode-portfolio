@@ -20,7 +20,7 @@
     "name": "UBCMA Job Portal",
     "image": "https://imgur.com/Icx8lWa.png",
     "description": "A job portal focused on marketing internships, for a marketing club",
-    "tags": ["typescript", "react", "sql"],
+    "tags": ["typescript", "react", "sql", "django"],
     "demo": "https://ubcma-job-board.vercel.app/"
   },
   {
