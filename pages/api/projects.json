@@ -9,22 +9,31 @@
   },
   {
     "id": 2,
-    "name": "NNECT",
+    "name": "UBCMA Job Portal",
+    "image": "https://imgur.com/Icx8lWa.png",
+    "description": "A job portal focused on marketing internships, for a marketing club",
+    "tags": ["typescript", "react", "nextjs", "sql", "django"],
+    "demo": "https://ubcma-job-board.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "Mapcessibility",
+    "image": "https://imgur.com/aicJ9Bx.png",
+    "description": "A map-based webapp to find accessible indoor routes for people with disabilities",
+    "tags": ["typescript", "react", "firebase", "nextjs"],
+    "source_code": "https://github.com/jshiii117/nwhacks2024",
+    "demo": "https://nwhacks2024.vercel.app/"
+  },
+  {
+    "id": 4,
+    "name": "NNECT: Food Delivery",
     "image": "https://imgur.com/LxJBdBm.png",
     "description": "An e-commerce website for a food delivery startup",
     "tags": ["javascript","react", "node", "python","django"],
     "demo": "https://www.nnect.ca/"
   },
   {
-    "id": 3,
-    "name": "UBCMA Job Portal",
-    "image": "https://imgur.com/Icx8lWa.png",
-    "description": "A job portal focused on marketing internships, for a marketing club",
-    "tags": ["typescript", "react", "sql", "django"],
-    "demo": "https://ubcma-job-board.vercel.app/"
-  },
-  {
-    "id": 4,
+    "id": 5,
     "name": "Inspiritzia",
     "image": "https://imgur.com/SATFv67.png",
     "description": "A fashion-based community platform to share outfits, based on Aritzia's website",
@@ -32,7 +41,7 @@
     "source_code": "https://github.com/shlrley/inspiritzia"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "IndyTube",
     "image": "https://imgur.com/cgCkxZc.png",
     "description": "A youtube clone for uploading videos and posting comments",
@@ -40,7 +49,7 @@
     "source_code": "https://github.com/indywip/indytube"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Weekly Scheduler",
     "image": "https://imgur.com/zKkE8uF.png",
     "description": "A weekly class scheduling application",
@@ -48,7 +57,7 @@
     "source_code": "https://github.com/indywip/Weekly-Schedule-App"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Team Management",
     "image": "https://imgur.com/Zm9fm09.png",
     "description": "An application to manage team members",
@@ -56,7 +65,7 @@
     "source_code": "https://github.com/indywip/team_management"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Weather Forecast",
     "image": "https://imgur.com/rD0AdLA.png",
     "description": "An app to get the weather forecast by utilizing several APIs",
@@ -65,7 +74,7 @@
     "demo": "https://prep-22-jul-prep-3-project.netlify.app/"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Design Portfolio",
     "image": "https://imgur.com/KcqJ50Y.png",
     "description": "A portfolio showcasing my past design work",
