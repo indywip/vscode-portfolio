@@ -42,6 +42,15 @@
   },
   {
     "id": 6,
+    "name": "Design Portfolio",
+    "image": "https://imgur.com/KcqJ50Y.png",
+    "description": "A portfolio showcasing my past design work",
+    "tags": ["javascript","react"],
+    "source_code": "https://github.com/indywip/design-portfolio",
+    "demo": "https://indysowy.netlify.app/"
+  },
+  {
+    "id": 7,
     "name": "IndyTube",
     "image": "https://imgur.com/cgCkxZc.png",
     "description": "A youtube clone for uploading videos and posting comments",
@@ -49,37 +58,11 @@
     "source_code": "https://github.com/indywip/indytube"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Weekly Scheduler",
     "image": "https://imgur.com/zKkE8uF.png",
     "description": "A weekly class scheduling application",
     "tags": ["java", "junit", "swing"],
     "source_code": "https://github.com/indywip/Weekly-Schedule-App"
-  },
-  {
-    "id": 8,
-    "name": "Team Management",
-    "image": "https://imgur.com/Zm9fm09.png",
-    "description": "An application to manage team members",
-    "tags": ["python", "django", "sql","postgres"],
-    "source_code": "https://github.com/indywip/team_management"
-  },
-  {
-    "id": 9,
-    "name": "Weather Forecast",
-    "image": "https://imgur.com/rD0AdLA.png",
-    "description": "An app to get the weather forecast by utilizing several APIs",
-    "tags": ["html","css","javascript","react"],
-    "source_code": "https://github.com/MLH-Fellowship/prep-project-22.JUL.PREP.3",
-    "demo": "https://prep-22-jul-prep-3-project.netlify.app/"
-  },
-  {
-    "id": 10,
-    "name": "Design Portfolio",
-    "image": "https://imgur.com/KcqJ50Y.png",
-    "description": "A portfolio showcasing my past design work",
-    "tags": ["javascript","react"],
-    "source_code": "https://github.com/indywip/design-portfolio",
-    "demo": "https://indysowy.netlify.app/"
   }
 ]
