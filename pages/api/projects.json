@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
+    "name": "UBCMA Job Portal",
+    "image": "https://imgur.com/Icx8lWa.png",
+    "description": "A job portal focused on marketing internships, for a marketing club",
+    "tags": ["typescript", "react", "nextjs", "sql"],
+    "demo": "https://jobboard.ubcma.ca/"
+  },
+  {
+    "id": 2,
     "name": "CommunalCars",
     "image": "https://imgur.com/tKzi6nU.png",
     "description": "A mobile application allowing users to rent out their cars",
     "tags": ["javascript","react-native", "node", "express", "mongodb","axios"],
     "source_code": "https://github.com/indywip/communal-cars"
-  },
-  {
-    "id": 2,
-    "name": "UBCMA Job Portal",
-    "image": "https://imgur.com/Icx8lWa.png",
-    "description": "A job portal focused on marketing internships, for a marketing club",
-    "tags": ["typescript", "react", "nextjs", "sql", "django"],
-    "demo": "https://ubcma-job-board.vercel.app/"
   },
   {
     "id": 3,
